@@ -40,11 +40,16 @@ The dataset includes signals from 14 electrodes based on the international 10–
   - Right = 64  
 - **Trials per Command**: 10 per subject  
 - **Trial Duration**: 8 seconds
+  
+## Access the Full Dataset
+
+The complete dataset is hosted on Kaggle and can be accessed at the link below:
+[Kaggle Dataset – Cueless Motor Imagery EEG](https://kaggle.com/datasets/c0e1ff888b30f7de63664cce03694005edb1bae441037f12f22822cc2b15952c)
 
 ## Citation
 
 If you use this dataset, please cite:  
-**Sado T. Osimeozemeokhai, *Decoding Directional Intent from Cueless EEG Motor Imagery with Emotiv Epoc X*, 2025.**
+**[1]O. SADO, “Cueless Motor Imagery EEG Dataset,” Kaggle.com, 2025. https://kaggle.com/datasets/c0e1ff888b30f7de63664cce03694005edb1bae441037f12f22822cc2b15952c (accessed Jul. 08, 2025).**
 
 ## License
 
