@@ -43,7 +43,7 @@ The dataset includes signals from 14 electrodes based on the international 10–
   
 ## Access the Full Dataset
 
-The complete dataset is hosted on Kaggle and can be accessed at the link below:
+The complete dataset is hosted on Kaggle and can be accessed at the link:
 [Kaggle Dataset – Cueless Motor Imagery EEG](https://kaggle.com/datasets/c0e1ff888b30f7de63664cce03694005edb1bae441037f12f22822cc2b15952c)
 
 ## Citation
